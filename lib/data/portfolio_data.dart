@@ -225,7 +225,7 @@ class PortfolioData {
           'dự án theo tag và form liên hệ có validation.',
       imagePath: 'assets/images/project_portfolio.png',
       technologies: ['Flutter', 'Dart', 'Provider', 'Responsive', 'UI Kit'],
-      githubUrl: 'https://github.com/tranphicuong/cv_portfolio',
+      githubUrl: 'https://github.com/tranphicuong/portfolio',
       icon: Icons.web_rounded,
     ),
     Project(
