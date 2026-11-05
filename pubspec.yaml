@@ -1,0 +1,29 @@
+name: cv_portfolio
+description: Ứng dụng CV cá nhân (Personal Portfolio) xây dựng bằng Flutter.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  cloud_firestore: ^7.1.0
+  firebase_core: ^5.1.0
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+  go_router: ^14.2.0
+  http: ^1.6.0
+  provider: ^6.1.2
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

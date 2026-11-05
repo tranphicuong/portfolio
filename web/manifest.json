@@ -1,0 +1,12 @@
+{
+  "name": "Cuong - Flutter Developer Intern",
+  "short_name": "Cuong CV",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0B0F1A",
+  "theme_color": "#4F46E5",
+  "description": "CV điện tử cá nhân xây dựng bằng Flutter.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": []
+}
